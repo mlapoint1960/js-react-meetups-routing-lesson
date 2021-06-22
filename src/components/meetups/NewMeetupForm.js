@@ -1,5 +1,5 @@
-import Card from '../ui/Card'
-import classes from './NewMeetupForm.module.css'
+import Card from '../ui/Card';
+import classes from './NewMeetupForm.module.css';
 
 function NewMeetupForm() {
     return (
@@ -21,7 +21,7 @@ function NewMeetupForm() {
                 <label htmlFor="description">Description</label>
                 <textarea id="description" required rows='5'></textarea>
             </div>
-            <div classes={classes.action}>
+            <div className={classes.actions}>
                 <button>Add Meetup</button>
 
             </div>
@@ -31,4 +31,4 @@ function NewMeetupForm() {
     );
 }
 
-export default NewMeetupForm;
+export default NewMeetupForm; 
