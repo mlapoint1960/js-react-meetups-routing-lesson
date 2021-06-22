@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../my-first-app"
+		},
+		{
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react"
+	}
+}

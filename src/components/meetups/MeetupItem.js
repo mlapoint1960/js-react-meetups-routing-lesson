@@ -6,10 +6,10 @@ function MeetupItem(props) {
         <div className={classes.image}>
             <img src="{props.image}" alt="{props.title" />
         </div>
-        <div classes={content}>
+        <div classes={classes.content}>
             <h3>{props.title}</h3>
             <address>{props.address}</address>
-            <p>{props.discription}</p>
+            <p>{props.description}</p>
         </div>
         <div className={classes.actions}>
             <button>To Favorites</button>
