@@ -2,4 +2,4 @@ I wanted to learn what React was, so I watched and executed a tutoral I found on
 
 After going through the various segmanents I relaized i should javascript.
 
-But I liked learing React and seeing the results.
+But I liked learning React and seeing the results.
